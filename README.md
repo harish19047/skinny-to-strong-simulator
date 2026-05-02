@@ -3,7 +3,7 @@
 This is a simple web-based tool that simulates muscle gain outcomes based on calorie intake.
 
 ## Live Demo
-[PASTE YOUR LIVE LINK]
+https://muscle-gain-sim--harish19047.replit.app/
 
 ## What it does
 - Takes user input (weight, calories)
