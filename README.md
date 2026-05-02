@@ -12,3 +12,7 @@ https://muscle-gain-sim--harish19047.replit.app/
 
 ## Why I built this
 I wanted to build something practical based on my own experience being underweight and trying to gain muscle.
+## Next Steps
+- Add personalized diet plans based on Indian foods
+- Improve accuracy using real calorie surplus formulas
+- Expand into a full fitness coaching tool
