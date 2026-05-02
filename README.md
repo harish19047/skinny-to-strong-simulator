@@ -1,2 +1,14 @@
-# skinny-to-strong-simulator
-Built from personal experience — a tool to help skinny individuals understand muscle gain through calorie tracking.
+# Skinny to Strong Simulator
+
+This is a simple web-based tool that simulates muscle gain outcomes based on calorie intake.
+
+## Live Demo
+[PASTE YOUR LIVE LINK]
+
+## What it does
+- Takes user input (weight, calories)
+- Shows expected progress over 30 days
+- Focuses on real-world insight: calorie surplus drives muscle gain
+
+## Why I built this
+I wanted to build something practical based on my own experience being underweight and trying to gain muscle.
